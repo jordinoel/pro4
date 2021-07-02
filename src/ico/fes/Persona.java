@@ -73,7 +73,7 @@ public class Persona {
     }
 
     public void IapMaterno() {
-        System.out.println("Su apellido paterno es: " + this.ApMaterno);
+        System.out.println("Su apellido materno es: " + this.ApMaterno);
     }
 
     public void Iedad() {
