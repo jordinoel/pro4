@@ -3,6 +3,6 @@ package ico.fes;
 
 
 public interface Deportista {
-    public void entrenar();
-    public void jugar();
+    public abstract void entrenar();
+    public abstract void jugar();
 }
